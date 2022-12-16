@@ -1,0 +1,8 @@
+site_name: lysb docs
+
+theme:
+  name: "material"
+
+plugins:
+- search
+- mkdocstrings
